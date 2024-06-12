@@ -1,2 +1,2 @@
-# github-para-progrmadores
+# Bienvenido al curso de GitHub
 Prueba de repositorio
